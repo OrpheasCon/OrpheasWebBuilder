@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Orpheas 1</title>
+    <link rel="stylesheet" href="./style.css">
+
+  </head>
+    
+  <body>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Orpheas Constantoyannis — Website Developer</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<nav>
+  <a href="#hero" class="logo">Orpheas Constantoyannis</a>
+  <ul class="nav-links">
+    <li><a href="#services">Services</a></li>
+    <li><a href="#process">Process</a></li>
+    <li><a href="#tools">Tools</a></li>
+  </ul>
+  <a href="#contact" class="nav-cta">Contact</a>
+</nav>
+
+<section id="hero">
+  <canvas id="hero-canvas"></canvas>
+  <div class="hero-eyebrow"><span class="hero-dot"></span>Website Developer</div>
+  <h1>Websites that work,<br><em>built with intelligence</em></h1>
+  <p class="hero-sub">Clean, fast, modern websites — crafted by hand and accelerated by the best AI tools available.</p>
+  <div class="hero-actions">
+    <a href="#services" class="btn-gold">See my services</a>
+    <a href="#contact" class="btn-outline">Let's talk</a>
+  </div>
+</section>
+
+<div class="scene-divider"></div>
+
+<section id="services">
+  <div class="container">
+    <p class="section-label reveal">What I offer</p>
+    <h2 class="reveal">Services</h2>
+    <p class="section-intro reveal">Every project is different. I build websites by hand, using also AI — so you get quality work, faster.</p>
+    <div class="services-grid">
+      <div class="service-card reveal">
+        <div class="card-shimmer"></div>
+        <span class="svc-num">01</span>
+        <h3>Website development</h3>
+        <p>Custom-built sites — landing pages, portfolios, business sites — coded for speed and built to last.</p>
+      </div>
+      <div class="service-card reveal">
+        <div class="card-shimmer"></div>
+       
+        <span class="svc-num">02</span>
+        <h3>Redesigns & rebuilds</h3>
+        <p>Modernise an outdated site — cleaner design, faster load times, better results.</p>
+      </div>
+      <div class="service-card reveal">
+        <div class="card-shimmer"></div>
+        <span class="svc-num">03</span>
+        <h3>Ongoing maintenance</h3>
+        <p>Monthly updates and fixes so your site stays fresh and secure without the stress.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="scene-divider"></div>
+
+<section id="process">
+  <div class="container">
+    <p class="section-label reveal">How I work</p>
+    <h2 class="reveal">From brief to launch</h2>
+    <p class="section-intro reveal">A simple, transparent process — no endless back-and-forth, no hidden surprises.</p>
+    <div class="process-list">
+      <div class="process-item">
+        <div class="step-num">01</div>
+        <div><h3>Discovery call</h3><p>We talk through your goals, audience, and what success looks like. Thirty minutes, no pressure.</p></div>
+      </div>
+      <div class="process-item">
+        <div class="step-num">02</div>
+        <div><h3>Proposal & plan</h3><p>A clear scope, timeline, and fixed price — so you know exactly what you're getting before we start.</p></div>
+      </div>
+      <div class="process-item">
+        <div class="step-num">03</div>
+        <div><h3>Build & review</h3><p>I build and share progress at key milestones. You give feedback, I refine — collaboratively and efficiently.</p></div>
+      </div>
+      <div class="process-item">
+        <div class="step-num">04</div>
+        <div><h3>Launch & hand-off</h3><p>Your site goes live, fully tested. I walk you through everything and stay available for questions.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="scene-divider"></div>
+
+<section id="tools">
+  <div class="container">
+    <p class="section-label reveal">My toolkit</p>
+    <h2 class="reveal">Tools I use</h2>
+    <p class="section-intro reveal">Solid fundamentals paired with the best AI tools — building smarter without sacrificing quality.</p>
+    <div class="tools-wrap reveal">
+      <span class="tool-tag">HTML / CSS</span>
+      <span class="tool-tag">JavaScript</span>
+      <span class="tool-tag">React</span>
+      <span class="tool-tag">Next.js</span>
+      <span class="tool-tag">Tailwind CSS</span>
+      <span class="tool-tag">Claude AI</span>
+      <span class="tool-tag">ChatGPT</span>
+      <span class="tool-tag">GitHub Copilot</span>
+      <span class="tool-tag">Cursor</span>
+      <span class="tool-tag">Vercel</span>
+      <span class="tool-tag">Figma</span>
+      <span class="tool-tag">Webflow</span>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <canvas id="contact-canvas"></canvas>
+  <div class="container">
+    <h2>Ready to build something?</h2>
+    <p>Tell me about your project and I'll get back to you within one business day.</p>
+    <a href="mailto:hello@yoursite.com" class="btn-contact">Send me an email</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Orpheas Constantoyannis · Built with code & AI</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+    <script  src="./script.js"></script>
+
+  </body>
+  
+</html>
